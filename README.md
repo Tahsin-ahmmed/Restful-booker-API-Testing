@@ -12,8 +12,11 @@ The goal of this project is to perform end-to-end API testing on the Restful Boo
 - Get Booking
 - Authentication
 - Update Booking
+- Get Booking Copy
 - Partial Update Booking
+- Get Booking Copy 2
 - Delete Booking
+- Get Booking Copy 3
 
 ## Tools & Technologies
 
@@ -85,8 +88,7 @@ newman run Collection.json -e Environment.json -r htmlextra
 
 ## API Documentation
 
-Restful Booker API Documentation:
-https://restful-booker.herokuapp.com/apidoc/index.html
+[https://restful-booker.herokuapp.com/apidoc/index.html](https://documenter.getpostman.com/view/46928810/2sBXqNmJhN)
 
 ## Report Sample
 
@@ -97,3 +99,8 @@ HTML report generated using Newman HTML Extra Reporter.
 Tahsin Ahmmed
 
 QA Engineer | SQA Enthusiast | API Tester
+<img width="1105" height="884" alt="report" src="https://github.com/user-attachments/assets/238da76d-2569-4d9f-92b2-b73a0f081e3a" />
+<img width="1111" height="847" alt="report1" src="https://github.com/user-attachments/assets/bdd85985-f53a-4690-9e01-e2c6d378214d" />
+
+
+
